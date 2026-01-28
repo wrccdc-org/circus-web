@@ -1,0 +1,40 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "CIRCUS — Collegiate Incident Response Competition"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "CIRCUS is a collegiate incident response and digital forensics competition for undergraduate students."
+  tagline = "For Undergraduate Students"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Rules"
+  url = "/rules/"
+  weight = 2
+
+[[menu.main]]
+  name = "Schedule"
+  url = "/schedule/"
+  weight = 3
+
+[[menu.main]]
+  name = "Sponsors"
+  url = "/sponsors/"
+  weight = 4
+
+[[menu.main]]
+  name = "Signup"
+  url = "/signup/"
+  weight = 5
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 6
