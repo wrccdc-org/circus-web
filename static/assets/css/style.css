@@ -192,7 +192,7 @@ nav a.active {
   border-bottom: 3px solid #b30000;
   background:
     radial-gradient(circle at top, rgba(255, 247, 225, 0.95) 0, rgba(255, 221, 170, 0.95) 40%, rgba(252, 195, 120, 0.95) 100%),
-    url("../img/circus-hero-tent.jpg");
+    url("../logo.png");
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
